@@ -21,6 +21,10 @@ public class WhileDoWhileWebinar {
         }
         System.out.println("Suma numerelor pare este:" + sum);
         System.out.println("----------------------------------");
+
+        System.out.println("gxgsuycdgsuy");
+
+
     }
 }
 
